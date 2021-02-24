@@ -1,2 +1,7 @@
 # Git-github
-Hellow_World
+#include<stdio.h>
+
+int main()
+{
+  printf("github");
+}
